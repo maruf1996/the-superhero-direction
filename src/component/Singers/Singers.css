@@ -1,0 +1,11 @@
+.singers_part {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    background-color: rgb(4, 4, 77);
+    padding-top: 8px;
+}
+
+.singer_container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

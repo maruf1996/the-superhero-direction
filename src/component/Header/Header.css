@@ -1,0 +1,10 @@
+.header_part {
+    text-align: center;
+    background-color: cornsilk;
+    padding: 5px;
+    color: teal;
+}
+
+.header_part p {
+    font-size: 19px;
+}

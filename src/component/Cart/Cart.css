@@ -1,0 +1,23 @@
+.cost_container_first_part {
+    color: lightcyan;
+    margin-right: 13px;
+    margin-top: 10px;
+    margin-left: 2px;
+    padding: 2px 8px;
+    font-size: 20px;
+    background-color: rgba(248, 103, 103, 0.57);
+    border-radius: 10px;
+}
+
+.cost_container_first_part h2 {
+    font-size: 21px;
+}
+
+.cost_container_second_part {
+    color: lightcyan;
+    margin-right: 13px;
+    margin-top: 10px;
+    margin-left: 2px;
+    padding: 2px 8px;
+    font-size: 20px;
+}
